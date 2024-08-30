@@ -1,0 +1,5 @@
+set number
+syntax on
+set list
+set listchars=lead:·,eol:↵,tab:»-
+highlight SpecialKey ctermfg=240
